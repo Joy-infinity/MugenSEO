@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Template. List canonical, indexable URLs only (HTTPS, no noindex, no redirects, no 404s).
+     Keep lastmod accurate. Place the final file at https://example.com/sitemap.xml -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2026-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/about</loc>
+    <lastmod>2026-01-10</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/blog/example-post</loc>
+    <lastmod>2026-01-20</lastmod>
+  </url>
+</urlset>

@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "REPLACE: brand/organization name",
+  "url": "https://example.com",
+  "logo": "https://example.com/REPLACE-logo.png",
+  "description": "REPLACE: what the organization does",
+  "sameAs": [
+    "https://www.linkedin.com/company/REPLACE",
+    "https://x.com/REPLACE",
+    "https://github.com/REPLACE"
+  ]
+}

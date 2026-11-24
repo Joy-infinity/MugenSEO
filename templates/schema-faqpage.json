@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "REPLACE: a real question that appears on the page",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "REPLACE: the answer, matching the visible answer on the page."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "REPLACE: a second real question",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "REPLACE: the second answer."
+      }
+    }
+  ]
+}

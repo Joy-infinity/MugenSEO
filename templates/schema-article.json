@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "REPLACE: the article title (match the visible H1)",
+  "description": "REPLACE: one-sentence summary",
+  "image": "https://example.com/REPLACE-featured-image.jpg",
+  "datePublished": "2026-01-15",
+  "dateModified": "2026-01-20",
+  "author": {
+    "@type": "Person",
+    "name": "REPLACE: real author name",
+    "url": "https://example.com/author/REPLACE",
+    "jobTitle": "REPLACE: credential that supports E-E-A-T"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "REPLACE: site/brand name",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://example.com/REPLACE-logo.png"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://example.com/REPLACE-this-article-url"
+  }
+}

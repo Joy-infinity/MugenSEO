@@ -1,0 +1,32 @@
+# robots.txt template. Place at https://example.com/robots.txt
+# Default: allow everything, point crawlers to the sitemap.
+# NEVER use "Disallow: /" on a site you want ranked — it blocks the whole site.
+
+User-agent: *
+Allow: /
+
+# Example: keep crawlers out of private/duplicate areas (edit to fit; do NOT
+# block CSS/JS the page needs to render):
+# Disallow: /cart
+# Disallow: /admin
+# Disallow: /search
+
+# Point to your sitemap (absolute URL):
+Sitemap: https://example.com/sitemap.xml
+
+# --- Optional: AI crawlers ---
+# You may allow or disallow AI bots. Blocking them can reduce your visibility in
+# AI answers (AI Overviews, ChatGPT, Perplexity). This is a business decision —
+# discuss it with the user. To block one, uncomment its block:
+#
+# User-agent: GPTBot
+# Disallow: /
+#
+# User-agent: ClaudeBot
+# Disallow: /
+#
+# User-agent: PerplexityBot
+# Disallow: /
+#
+# User-agent: Google-Extended
+# Disallow: /
